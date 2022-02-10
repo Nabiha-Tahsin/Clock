@@ -241,29 +241,17 @@
 
 @keyframes h{
     0%{transform: rotate(30deg);}
-    4.17%{transform: rotate(45deg);}
     8.34%{transform: rotate(60deg);}
-    12.51%{transform: rotate(75deg);}
-    16.68%{transform: rotate(90deg);}
-    20.85%{transform: rotate(105deg);}
+    16.78%{transform: rotate(90deg);}
     25.02%{transform: rotate(120deg);}
-    29.19%{transform: rotate(135deg);}
-    33.36%{transform: rotate(150deg);}
-    37.53%{transform: rotate(165deg);}
-    41.7%{transform: rotate(180deg);}
-    45.87%{transform: rotate(195deg);}
-    50.04%{transform: rotate(210deg);}
-    54.21%{transform: rotate(225deg);}
-    58.38%{transform: rotate(240deg);}
-    62.56%{transform: rotate(255deg);}
-    66.73%{transform: rotate(270deg);}
-    70.90%{transform: rotate(285deg);}
-    75.07%{transform: rotate(300deg);}
-    79.24%{transform: rotate(315deg);}
-    83.4%{transform: rotate(330deg);}
-    87.58%{transform: rotate(345deg);}
-    91.75%{transform: rotate(360deg);}
-    95.92%{transform: rotate(375deg);}
+    33.46%{transform: rotate(150deg);}
+    41.6%{transform: rotate(180deg);}
+    50.3%{transform: rotate(210deg);}
+    58.7%{transform: rotate(240deg);}
+    67.1%{transform: rotate(270deg);}
+    75.5%{transform: rotate(300deg);}
+    84%{transform: rotate(330deg);}
+    89.9%{transform: rotate(360deg);}
     100%{transform: rotate(390deg);}
 }
 
